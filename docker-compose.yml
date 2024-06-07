@@ -1,6 +1,6 @@
 version: '3'
 services:
   server:
-    image: your_docker_hub_account/docker-ci-basic:latest
+    image: tenderness233/docker-ci-basic:latest
     ports:
       - 6666:80
